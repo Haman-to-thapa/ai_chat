@@ -51,4 +51,4 @@ AI: Gemini / Groq (server side)
 .
 .
 ------Loom video Link = https://www.loom.com/share/f645960286a440c1b4a3e426d6e2af65
-----github=====>
+----github=====>https://github.com/Haman-to-thapa/ai_chat
